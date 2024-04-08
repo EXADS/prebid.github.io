@@ -3,13 +3,12 @@ layout: bidder
 title: EXADS
 description: EXADS Bidder Adapter
 pbjs: true
-multiformat_supported: will-bid-on-one
+multiformat_supported: will-not-bid
 biddercode: exadsadserver
 dsa_supported: true
 gvl_id: 1084
 tcfeu_supported: true
 media_types: banner, video, native
-gpp_sids: tcfeu
 safeframes_ok: false
 deals_supported: false
 floors_supported: true
